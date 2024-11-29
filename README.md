@@ -8,5 +8,3 @@ The game was built using ReactPixi.
 
 You can play the game on: https://egglings-world.onrender.com/
 
-Egglings World is a Comic Series that I have created you can find it on Instagram:
-https://www.instagram.com/egglingsworld/
